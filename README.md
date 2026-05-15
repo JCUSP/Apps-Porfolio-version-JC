@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/27796325/README.md)
 # Oracle Apps Portfolio
 
 Pequena app estatica para explorar el portfolio de Oracle Apps por familia, producto, siglas, descripcion y link oficial.
