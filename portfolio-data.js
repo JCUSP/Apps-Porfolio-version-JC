@@ -342,6 +342,16 @@ window.PORTFOLIO_DATA = [
   {
     "section": "Fusion Cloud Applications",
     "family": "CX",
+    "product": "Oracle Responsys Campaign Management",
+    "acronym": "",
+    "meaning": "",
+    "description": "Gestion de campanas B2C cross-channel para crear, orquestar y personalizar mensajes en email, mobile, web push, SMS y otros canales.",
+    "linkText": "Responsys",
+    "link": "https://www.oracle.com/es/cx/marketing/campaign-management/"
+  },
+  {
+    "section": "Fusion Cloud Applications",
+    "family": "CX",
     "product": "Oracle Sales",
     "acronym": "SFA",
     "meaning": "Sales Force Automation",

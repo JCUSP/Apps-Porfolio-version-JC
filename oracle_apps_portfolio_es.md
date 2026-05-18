@@ -40,6 +40,7 @@
 | HCM | Oracle Dynamic Skills | - | - | Inteligencia de skills para identificar capacidades, gaps, movilidad y upskilling. | [Dynamic Skills](https://www.oracle.com/human-capital-management/skills/) |
 | CX | Oracle Customer Experience | CX | Customer Experience | Suite para ventas, marketing, servicio, comercio y gestion integral del cliente. | [Oracle CX](https://www.oracle.com/cx/) |
 | CX | Oracle Marketing | - | - | Automatizacion de marketing B2B/B2C, campanas, engagement, loyalty y customer data. | [Marketing](https://www.oracle.com/cx/marketing/) |
+| CX | Oracle Responsys Campaign Management | - | - | Gestion de campanas B2C cross-channel para crear, orquestar y personalizar mensajes en email, mobile, web push, SMS y otros canales. | [Responsys](https://www.oracle.com/es/cx/marketing/campaign-management/) |
 | CX | Oracle Sales | SFA | Sales Force Automation | Automatizacion comercial, pipeline, planificacion, performance, partners y revenue operations. | [Sales](https://www.oracle.com/cx/sales/) |
 | CX | Oracle Service | - | - | Centro de servicio, knowledge, digital service y field service para atencion al cliente. | [Service](https://www.oracle.com/cx/service/) |
 | CX | Oracle Commerce | - | - | Comercio digital B2B/B2C conectado con ventas, servicio, pedidos y back office. | [Commerce](https://www.oracle.com/cx/ecommerce/) |
